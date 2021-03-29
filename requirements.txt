@@ -98,7 +98,7 @@ protobuf==3.9.1
 ptyprocess==0.6.0
 py==1.8.0
 py4j==0.10.4
-Pygments==2.4.2
+Pygments==2.7.4
 pylint==2.3.1
 pynvx==1.0.0
 pyparsing==2.4.2
